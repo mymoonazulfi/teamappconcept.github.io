@@ -1,0 +1,89 @@
+*{padding: 0;margin: 0;}
+
+.get-started{background-color: #5C57A9;box-shadow:none;border-color: #5C57A9;color:white;border-color:#5C57A9;border-radius: 3px;}
+
+.get-started:hover{background-color: #8783c2;color: white;border: #5C57A9;}
+
+.modal-title{background-color: #5C57A9;box-shadow:none;border-color: #5C57A9;color:white;border-color:#5C57A9;border-radius: 3px;}
+
+.modal-title:hover{color: #ffffff;}
+
+
+
+.footer-button{background-color: #5C57A9;box-shadow:none;border-color: #5C57A9;color:white;border-color:#5C57A9;border-radius: 3px;}
+
+.footer-button:hover{background-color: #8783c2;color: white;border: #5C57A9;}
+
+
+.btn-lg{width: 180px; margin-left: -10px; height:58px; background-color: #5C57A9; box-shadow:none; border-color: #5C57A9;color:white;border-radius: 3px;}
+
+.btn-lg:hover{ background-color: #8783c2;color: white;border: #5C57A9;}
+
+.navbar-light .nav-item .nav-link{font-family: 'Inter';font-style: normal;font-weight: 400;font-size: 16px;line-height: 19px;color: #FFFFFF;}
+
+.navbar-light .nav-item .nav-link:hover{color: #5C57A9;}
+
+.navbar-light .navbar-toggler{ border: 3px solid #5C57A9; box-shadow: none;}
+
+.navbar-light .navbar-toggler:hover{color: none;}
+
+.navbar-light .navbar-toggler:disabled{color: none;}
+
+.navbar-toggler-icon{color: #5C57A9;}
+
+.navbar-toggler-icon:hover{color: #ffffff;}
+
+.form-email{width:400px;}
+
+
+
+.bg-img{background-image: url('Images/Backgground Img.png');width:100%; 
+        min-height: 100vh;background-repeat: no-repeat;background-position:center; background-size: cover;}
+
+.cont-head-first{color: #060518;font-size: 50px; font-weight: 800;font-family: 'mulish';}
+
+.cont-para-first{color: #060518;font-size:20px;font-weight: 400;font-family: 'mulish';}.Sign-Up{font-size: x-small;}    
+
+
+
+@media screen and (max-width:576px){
+.bg-img {min-height: 50vh;}.cont-head-first{font-size: 30px;color: #FFFFFF;}.cont-para-first{font-size: 14px;color: #FFFFFF;}.Sign-Up{font-size: x-small;}
+
+.form-floating{ color: #7875a7;}
+
+.form-control  {width:270px;}
+
+.form-email-two{width:200px;}
+
+ .btn-lg{margin-left: -40px;}
+
+ .prev-button .btn-prev{margin-left: 380px;margin-top:10px;}
+
+ .next-button .btn-next{margin-left: 430px;margin-top:-82px;}}
+
+.cont-inside{margin-top: 80px;}   
+
+
+ @media screen and (min-width:568px){.cards-wrapper{ display: flex;}
+.card{margin: 1em;width:calc(100%/3); padding: 5px; border: transparent;}}
+
+@media screen and (max-width:567px) { .card:not(:first-child){display: none; }}
+
+.footer{background-color:#5C57A9; width:100%; min-height :60vh; margin-top:50px; padding:30px;}
+
+.text-link{color:#ffffff;  text-decoration: none;}
+
+.text-link:hover{background-color:transparent;color:#201E3F;;border:none;border-radius: none;}
+
+
+
+
+.form-floating{color: #7875a7;}
+
+.copy-rights{padding-top: 40px;padding-left: 25px;}
+
+.prev-button .btn-prev {background-color: #5C57A9;width:40px; border-radius:#5C57A9 ;border: #5C57A9;}
+.next-button .btn-next {background-color: #5C57A9;width:40px;  border-radius:#5C57A9 ;border:  #5C57A9 ;}
+
+.footer-head{color: #201E3F;font-size: 16px;}
+
